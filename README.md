@@ -15,11 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 最近やったこと
+# 最近作ったもの
 - ProxmoxVE構築
- - MEM192G
- - M.2 NVME4T+4T
-
-# 予定
-- ProxmoxVEで録画鯖構築
-- ラジオ録音も考えるとWindowsProがベストか
+ - Hardware
+  - MEM132G
+  - M.2 NVME512G
+  - M.2 NVME1T
+  - HDD8T
+  - HDD8T
+ - ProxmoxVE
+  - WindowsPro
+   - Q3PE5x2
+   - ラジオ録音
